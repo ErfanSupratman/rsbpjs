@@ -1,6 +1,6 @@
 
 body {
-    background-color: #f8f8f8;
+    background-color: #69E076;
 }
 #wrapper {
     width: 100%;
@@ -31,7 +31,7 @@ body {
 }
 
 .sidebar ul li a.active {
-    background-color: #eee;
+    background-color: #0AD220;
 }
 
 @media(min-width:768px) {
@@ -155,4 +155,9 @@ button.btn.btn-warning[disabled] {
 button.btn.btn-danger[disabled] {
    background: #bbbbbb;
    border-color: #bbbbbb;
+}
+
+.navbar-default {
+    background-color: #69E076;
+    border-color: #e7e7e7;
 }

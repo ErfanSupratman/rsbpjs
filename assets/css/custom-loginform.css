@@ -1,0 +1,13 @@
+.panel-info {
+    border-color: #09DC63;
+}
+.panel-info>.panel-heading{
+	color: #FFFFFF;
+	background-color: #69E076;
+	border-color: #09DC63;
+}
+.btn-success {
+    color: #fff;
+    background-color: #22D622;
+    border-color: #1FC11F;
+}
