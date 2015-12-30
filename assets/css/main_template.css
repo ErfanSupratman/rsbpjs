@@ -1,6 +1,6 @@
 
 body {
-    background-color: #69E076;
+    background-color: #00E676;
 }
 #wrapper {
     width: 100%;
@@ -158,6 +158,6 @@ button.btn.btn-danger[disabled] {
 }
 
 .navbar-default {
-    background-color: #69E076;
+    background-color: #00E676;
     border-color: #e7e7e7;
 }
